@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amanda_089939\\source\\repos\\CSharp\\TextEditor\\TextEditor.csproj",
+      "projectUniqueName": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\TextEditor\\TextEditor.csproj",
       "projectName": "TextEditor",
-      "projectPath": "C:\\Users\\amanda_089939\\source\\repos\\CSharp\\TextEditor\\TextEditor.csproj",
+      "projectPath": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\TextEditor\\TextEditor.csproj",
       "packagesPath": "C:\\Users\\amanda_089939\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amanda_089939\\source\\repos\\CSharp\\TextEditor\\obj\\",
+      "outputPath": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\TextEditor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

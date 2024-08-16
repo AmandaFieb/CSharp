@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\amanda_089939\\source\\repos\\CSharp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHtml\\EditorHtml.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EditorHtml\\EditorHtml.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHTML\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EditorHTML\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHTML\\Menu.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EditorHTML\\Menu.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHtml\\Viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EditorHtml\\Viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHtml\\Editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EditorHtml\\Editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\TextEditor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TextEditor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\TextEditor\\TextEditor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TextEditor\\TextEditor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHTML\\Menu.cs",
+              "RelativeDocumentMoniker": "EditorHTML\\Menu.cs",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHTML\\Menu.cs",
+              "RelativeToolTip": "EditorHTML\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:54:02.749Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditorHtml.csproj",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHtml\\EditorHtml.csproj",
+              "RelativeDocumentMoniker": "EditorHtml\\EditorHtml.csproj",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHtml\\EditorHtml.csproj",
+              "RelativeToolTip": "EditorHtml\\EditorHtml.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T14:27:46.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Viewer.cs",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHtml\\Viewer.cs",
+              "RelativeDocumentMoniker": "EditorHtml\\Viewer.cs",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHtml\\Viewer.cs",
+              "RelativeToolTip": "EditorHtml\\Viewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:21:56.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\TextEditor\\Program.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Program.cs",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\TextEditor\\Program.cs",
+              "RelativeToolTip": "TextEditor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:20:14.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextEditor.csproj",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\TextEditor\\TextEditor.csproj",
+              "RelativeDocumentMoniker": "TextEditor\\TextEditor.csproj",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\TextEditor\\TextEditor.csproj",
+              "RelativeToolTip": "TextEditor\\TextEditor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T14:20:14.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editor.cs",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHtml\\Editor.cs",
+              "RelativeDocumentMoniker": "EditorHtml\\Editor.cs",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHtml\\Editor.cs",
+              "RelativeToolTip": "EditorHtml\\Editor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:16:20.477Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHtml\\Program.cs",
+              "RelativeDocumentMoniker": "EditorHtml\\Program.cs",
+              "ToolTip": "C:\\Users\\amanda_089939\\source\\repos\\AmandaFieb\\CSharp\\EditorHtml\\Program.cs",
+              "RelativeToolTip": "EditorHtml\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:49:03.647Z",
+              "EditorCaption": ""
             }
           ]
         }

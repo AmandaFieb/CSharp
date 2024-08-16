@@ -62,6 +62,7 @@ namespace TextEditor
             Salvar(text);
         }
 
+
         static void Salvar(string text)
         {
             Console.Clear();

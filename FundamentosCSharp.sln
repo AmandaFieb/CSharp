@@ -3,19 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{891A0145-17C2-4E81-AB50-3E7715BB0880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{891A0145-17C2-4E81-AB50-3E7715BB0880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "Stopwatch\Stopwatch.csproj", "{37E6BC85-CBCA-4F45-B2E5-B9CAB444FFDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stopwatch", "Stopwatch\Stopwatch.csproj", "{37E6BC85-CBCA-4F45-B2E5-B9CAB444FFDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor", "TextEditor\TextEditor.csproj", "{6D3F075C-A884-4448-BD19-817409781EE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextEditor", "TextEditor\TextEditor.csproj", "{6D3F075C-A884-4448-BD19-817409781EE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EditorHtml", "EditorHtml\EditorHtml.csproj", "{21BD4F57-2D6A-4A3A-9B8E-CDBED7D5B84D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{891A0145-17C2-4E81-AB50-3E7715BB0880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +29,12 @@ Global
 		{6D3F075C-A884-4448-BD19-817409781EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D3F075C-A884-4448-BD19-817409781EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D3F075C-A884-4448-BD19-817409781EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BD4F57-2D6A-4A3A-9B8E-CDBED7D5B84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BD4F57-2D6A-4A3A-9B8E-CDBED7D5B84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BD4F57-2D6A-4A3A-9B8E-CDBED7D5B84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BD4F57-2D6A-4A3A-9B8E-CDBED7D5B84D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
